@@ -1,8 +1,10 @@
 <h1>Portfolio Website </h1>
 <h2>using HTML, CSS </h2>
 
+<a href="https://soura07.github.io/portfolio-website-frontend/">Visit My Portfolio Website Using HTML,CSS </a>
 
-<a href="https://ibb.co/sgLt38D"><img src="https://i.ibb.co/HKmXg5M/portfolio-website-img.png" alt="portfolio-website-img" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+<h1> Here is my sample video </h1>
 
 
-<a href="https://unicornjohn.github.io/portfolio-website-frontend/">Visit My Portfolio Website Using HTML,CSS </a>
+https://github.com/soura07/portfolio-website-frontend/assets/116977697/ec51cd87-ac17-4fa3-b20f-3b1d963f2357
+
